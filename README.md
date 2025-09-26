@@ -46,4 +46,4 @@ I am a student at ICAI studying Mathematical Engineering with a focus on Artific
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=iqueipopg&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iqueipopg&layout=compact&theme=radical)
