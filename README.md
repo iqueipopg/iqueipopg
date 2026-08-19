@@ -16,7 +16,7 @@ Mathematical Engineering and Artificial Intelligence graduate (ICAI, Universidad
 
 **[QUILL](https://github.com/iqueipopg/QUILL)**: five cooperating LLM agents for automated feedback on student essays (Sogang University, Spring 2026).
 
-**[DiSpAtCh](https://github.com/iqueipopg/DiSpAtCh)**: Double DQN agent with prioritized experience replay and transfer learning for warehouse navigation and delivery.
+**[DiSpAtCh](https://github.com/iqueipopg/DiSpAtCh)**: Double DQN agent with positive-experience prioritization and transfer learning for warehouse navigation and delivery.
 
 ## Background
 
