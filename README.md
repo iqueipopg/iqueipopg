@@ -1,49 +1,30 @@
-# Hi, I'm Ignacio 👋
+# Ignacio Queipo de Llano
 
-I am a student at ICAI studying Mathematical Engineering with a focus on Artificial Intelligence. 
+I build AI systems that turn unstructured data into structured, traceable inputs for financial decision-making.
 
-## 🚀 Tech Interests and Skills
+Mathematical Engineering and Artificial Intelligence graduate (ICAI, Universidad Pontificia Comillas). Incoming Master in Finance candidate at IESE Business School, Class of 2027.
 
-- Mathematics & Applied Mathematics 📐  
-- Artificial Intelligence & Machine Learning 🤖
-- Data Analysis and Modeling 📈 
-- Python 🐍  
-- FastAPI ⚡  
-- Git & GitHub 🐙
+## Selected work
 
-## 🔥 Current Projects
+**[SAM](https://github.com/iqueipopg/SAM-overview)**: multi-agent LLM system that automates the full systematic review and meta-analysis pipeline. Nine specialized agents covering protocol design, multi-database search, screening, data extraction, quality assessment, statistical synthesis and manuscript generation, plus a per-paper traceability report. Statistics run in R (metafor), not in the LLM. 879 passing automated tests. Presented at CIPIE 2026.
 
-- [TFG_MetaAnalysis](https://github.com/iqueipopg/TFG_MetaAnalysis) - My final degree project analyzing datasets using Machine Learning.
+**[LUCA](https://github.com/iqueipopg/LUCA-overview)**: LLM + XBRL pipeline that extracts structured financial data from SEC 10-K filings. Validated against a hand-annotated gold standard, with the XBRL extractor reaching 100 percent extraction accuracy. Built for traceability: every extracted figure maps back to its source in the filing.
 
-## 📜 Past Projects
+**[NerD](https://github.com/iqueipopg/NerD)**: NLP system that processes news articles and social media posts to detect named entities and assess sentiment. Unstructured text in, structured output out.
 
-- [SnakeGame](https://github.com/iqueipopg/SnakeGame)  
-  A Python-based version of the classic Snake game where you eat apples to grow, avoid hitting borders, and don’t eat purple apples or you lose. Reach 50 points to win!
+## Other work
 
-- [NerD](https://github.com/iqueipopg/NerD)  
-  An intelligent multi-modal alert system that processes news and social media to detect key entities and sentiment.
+**[QUILL](https://github.com/iqueipopg/QUILL)**: five cooperating LLM agents for automated feedback on student essays (Sogang University, Spring 2026).
 
-- [AmazonReviewsAnalysis](https://github.com/iqueipopg/AmazonReviewsAnalysis)  
-  Analyzes Amazon product reviews combining relational (MySQL), semi-structured (MongoDB) and graph (Neo4J) databases for integrated insights.
+**[DiSpAtCh](https://github.com/iqueipopg/DiSpAtCh)**: Double DQN agent with prioritized experience replay and transfer learning for warehouse navigation and delivery.
 
-- [MadridGPS](https://github.com/iqueipopg/MadridGPS)  
-  A smart navigation system using graph theory to calculate optimal routes in Madrid, offering turn-by-turn directions and visual mapping.
+## Background
 
-- [BlockchainApp](https://github.com/iqueipopg/BlockchainApp)  
-  A decentralized blockchain app with transaction processing, block mining, and proof-of-work consensus across multiple nodes.
+- BSc in Mathematical Engineering and Artificial Intelligence, ICAI (Universidad Pontificia Comillas). Exchange semester at Sogang University, Seoul.
+- Master in Finance, IESE Business School, Class of 2027, starting September 2026.
+- Languages: Spanish (native), English (fluent), German (professional).
 
-- [HooliganHavoc](https://github.com/iqueipopg/HooliganHavoc)  
-  Fast-paced top-down rogue-like auto-shooter game developed in Unity and C#, set in a chaotic football stadium.
+## Contact
 
-- [FingerFun](https://github.com/iqueipopg/FingerFun)  
-  A memory game tracking player movements in real time to replicate geometric pattern sequences with increasing difficulty.
-
-
-## 📫 How to reach me
-
-- LinkedIn: www.linkedin.com/in/ignacio-queipo-de-llano-pérez-gascón
+- LinkedIn: [linkedin.com/in/iqueipopg](https://www.linkedin.com/in/iqueipopg)
 - Email: iqueipo.pg24@gmail.com
-
----
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iqueipopg&layout=compact&theme=radical)
