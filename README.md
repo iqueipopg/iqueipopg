@@ -24,7 +24,9 @@ Mathematical Engineering and Artificial Intelligence graduate (ICAI, Universidad
 
 ## Coursework
 
-**[icai-imat](https://github.com/iqueipopg/icai-imat)**: eight assignments from the ICAI degree where the method is written by hand: SGD, momentum, Nesterov and Adam as PyTorch optimizers, the backward pass of an RNN for day-ahead electricity prices, skip-gram with negative sampling, an encoder-decoder Transformer, a YOLO detector trained from scratch, saliency, occlusion, guided backpropagation and integrated gradients, a DCGAN and a VQ-VAE. Each folder links the course starter commit and my commits, so the diff between them is exactly what I wrote, and the 202 tests of the course suites pass against the published code.
+**[iese-mif](https://github.com/iqueipopg/iese-mif)** (ongoing, IESE Master in Finance 2026-2027): the quantitative cases of the master, each with the code that reproduces every number in its report. So far, whether stock characteristics forecast next month's return out of sample (pooled OLS and fixed effects on 1.06 million CRSP stock-months, tested on 2020-2025) and which ARCH or GARCH model best forecasts Bitcoin volatility over 608 out-of-sample days.
+
+**[icai-imat](https://github.com/iqueipopg/icai-imat)** (completed, ICAI degree 2022-2026): eight assignments from the ICAI degree where the method is written by hand: SGD, momentum, Nesterov and Adam as PyTorch optimizers, the backward pass of an RNN for day-ahead electricity prices, skip-gram with negative sampling, an encoder-decoder Transformer, a YOLO detector trained from scratch, saliency, occlusion, guided backpropagation and integrated gradients, a DCGAN and a VQ-VAE. Each folder links the course starter commit and my commits, so the diff between them is exactly what I wrote, and the 202 tests of the course suites pass against the published code.
 
 ## Other work
 
