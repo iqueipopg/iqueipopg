@@ -22,6 +22,10 @@ Mathematical Engineering and Artificial Intelligence graduate (ICAI, Universidad
 
 **[NerD](https://github.com/iqueipopg/NerD)**: multitask BiLSTM that tags named entities and scores sentiment on news and social posts in one pass, then turns the structured result into a reputation alert.
 
+## Coursework
+
+**[icai-imat](https://github.com/iqueipopg/icai-imat)**: eight assignments from the ICAI degree where the method is written by hand: SGD, momentum, Nesterov and Adam as PyTorch optimizers, the backward pass of an RNN for day-ahead electricity prices, skip-gram with negative sampling, an encoder-decoder Transformer, a YOLO detector trained from scratch, saliency, occlusion, guided backpropagation and integrated gradients, a DCGAN and a VQ-VAE. Each folder links the course starter commit and my commits, so the diff between them is exactly what I wrote, and the 202 tests of the course suites pass against the published code.
+
 ## Other work
 
 **[QUILL](https://github.com/iqueipopg/QUILL)**: five cooperating LLM agents for automated feedback on student essays (Sogang University, Spring 2026).
